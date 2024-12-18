@@ -1,12 +1,20 @@
-# Getting Started with Create React App
+# Getting Started with cloning this repository
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+`git clone https://github.com/Ankit-Gurjar12/hms.git`.
 
-## Available Scripts
+## install the node modules and setup the project 
 
-In the project directory, you can run:
+ `npm install`
 
-### `npm start`
+## create your own new branch 
+
+`git -b checkout yourName`
+
+-start your code 
+
+## start the code 
+
+`npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
