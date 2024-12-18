@@ -12,7 +12,7 @@ function App() {
        <div className="bg-black w-full h-full ">
     <BrowserRouter>
     <Routes>
-      <Route path="/" element={<MainAssaigned/>} />
+      <Route path="/" element={<MainAssaigned/>} /> 
       <Route path="/detail" element={<TenantDetails />} />
       <Route path="/detail/remove" element={<RemoveTenant />} />
       <Route path="/detail/remove/success" element={<TenanatRemoveSuccess />} />
